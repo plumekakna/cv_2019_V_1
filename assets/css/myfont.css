@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'plume'; /*a name to be used later*/
+    src: url('../fonts/plume.ttf'); /*URL to font*/
+    src:
+    url("../fonts/plume.woff") format("woff"),
+    url("../fonts/plume.otf") format("opentype")
+}
+
+.Mfont {
+    font-family: 'plume';
+}
